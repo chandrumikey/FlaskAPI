@@ -1,0 +1,5 @@
+# Core dependencies
+typing-extensions>=4.0.0; python_version<'3.8'
+
+# Optional: Uncomment if you want to include these by default
+# uvicorn[standard]>=0.20.0
